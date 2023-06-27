@@ -10,7 +10,8 @@
 - JavaScrip
 - Python
 ## Code examples
- <code> <head>
+ <code><html>
+<head>
     <title>Привет, мир!</title>
 </head>
 <body>
@@ -18,9 +19,10 @@
 
     <script>
         var greetingElement = document.getElementById("greeting");
-        greetingElement.textContent = "hello world";
+        greetingElement.textContent = "Привет, мир!";
     </script>
-</body> </code>
+</body>
+</html></code>
 
 ## Education
 - School №7
