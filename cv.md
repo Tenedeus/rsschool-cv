@@ -10,19 +10,20 @@
 - JavaScrip
 - Python
 ## Code examples
- <code><html>
-<head>
-    <title>Привет, мир!</title>
-</head>
-<body>
-    <p id="greeting"></p>
-
-    <script>
-        var greetingElement = document.getElementById("greeting");
-        greetingElement.textContent = "Привет, мир!";
-    </script>
-</body>
-</html></code>
+ <code> function basicOp(operation, value1, value2)
+ {
+    switch(operation) {
+      case '+':
+        return value1 + value2;
+      case '-': 
+        return value1 - value2;
+      case "*": 
+        return value1 * value2;
+      case "/":
+        return value1 / value2;
+      default:
+        return 'Invalid operation'
+  }</code>
 
 ## Education
 - School №7
