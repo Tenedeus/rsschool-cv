@@ -5,7 +5,7 @@
 - Discord : Tenedeus#0794
 ## Summary
  The primary goal for me is the development and acquisition of new useful skills. It so happened that when I tried my hand at programming, I fell in love with it. Almost as strong as coffee in the morning. Of my main positive traits, I can note purposefulness and perseverance in solving problems. I really want to gain experience and skills in order to be confident in my ability to cope with the tasks and effectively solve them in the future
- ## Skills
+## Skills
 - HTML
 - JavaScrip
 - Python
